@@ -60,3 +60,4 @@ jobs:
           path: |
             twa/*.apk
             twa/*.aab
+
